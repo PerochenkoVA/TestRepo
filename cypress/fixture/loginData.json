@@ -1,0 +1,16 @@
+[{
+    "email": "it.switcher.test@gmail.com",
+    "password":"test"
+},
+{
+    "email": "it.switcher.test@gmail.com",
+    "password":""
+},
+{
+    "email": "it.switcher.test@gmail.com",
+    "password":"test"
+},
+{    
+    "email": "it.switcher.test@gmail.com",
+    "password":"test"
+}]
